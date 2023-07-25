@@ -1,4 +1,4 @@
 # rust-image-open
 
 ## WebSite
-https://noitalog.tokyo/rust-image-open/
+https://noitaro.github.io/rust-image-open/
